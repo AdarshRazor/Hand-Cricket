@@ -9,4 +9,4 @@ _Just try it by yourself_
       
 And feel free to contribute
 
-                                                                                                                        ~Adarsh_Razor~
+                                                                                            ~Adarsh_Razor~
