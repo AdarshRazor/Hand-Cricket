@@ -1,3 +1,11 @@
+# -*- coding: utf-8 -*-
+"""
+Normal Hand Cricket Game
+
+Adarsh Anand
+9:02 13.0.2019
+"""
+
 import random
 
 #toss--------------------------------------------------------------------------
